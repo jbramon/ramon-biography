@@ -14,7 +14,7 @@ st.header("Autobiography")
 st.write("""
 Hi, I'm John Bryan P. Ramon, an enthusiastic IT student and web developer in - progress. 
 Born and raised in Urgello, Cebu City, I discovered my fondness for technology - related subjects at a fairly young age. I am currently a BSIT 4th year student
-in Cebu Intitute of Technology University where I am honing and refining my skills. I aim to master different programming languages to be able to create and code useful and meaningful web app andmobile applications that are also user - friendly to users.
+in Cebu Institute of Technology University where I am honing and refining my skills in programming. I aim to master different programming languages to be able to create and code useful and meaningful web app and mobile applications that are also user - friendly to users.
 """)
  
 # Adding a Divider
@@ -26,7 +26,7 @@ st.header("Portfolio")
 # Project 1
 st.subheader("Project: Peer to Peer Development Website")
 st.write("""
-Developed a full-stack Peer to Peer, where students can share and post their projects/works to be assessed by other students, using Spring Boot and React. Students can assess each other;s work with the goal of giving constructive criticism to help their peers improve in their projects. The website also has a filter systenm to block certain offending/inappropriate and unproductive words so as to maintain the website's student - friendly and toxic free environment. 
+Developed a full-stack Peer to Peer Development Platform, where students can share and post their projects/works to be assessed by other students, using Spring Boot and React. Students can assess each other's work with the goal of giving constructive criticism to help their peers improve in their projects. The website also has a filter system to block certain offending/inappropriate and unproductive words so as to maintain the website's student - friendly and toxic free environment. 
 """)
  
 
